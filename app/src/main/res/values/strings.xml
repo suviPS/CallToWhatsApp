@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call -> WhatsApp</string>
+
+    <string name="default_text">To redirect outgoing calls from default phone dialer to WhatsApp please check box down below</string>
+</resources>
